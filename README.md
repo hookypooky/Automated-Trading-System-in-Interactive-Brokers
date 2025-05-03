@@ -34,7 +34,8 @@ Overall thoughts:
 - I'm very excited to see how it performs!
 - I've named it Hooky Pooky:
 
-![Screenshot (23)](https://gist.github.com/user-attachments/assets/e85ae621-a51c-42fb-b531-eb93e56ce02c)
+![Screenshot (23)](https://github.com/user-attachments/assets/0b3b0c3c-aa4e-4b1a-9f1b-8cbb5843d697)
+
 
 ### _How has Hooky Pooky performed so far?_
 
