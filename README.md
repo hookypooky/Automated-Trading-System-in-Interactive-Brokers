@@ -1,4 +1,4 @@
-## **Automated Trading System in Interactive Brokers**
+## **Systematic Futures Trading System in Interactive Brokers**
 
 ### _What is this?_
 
